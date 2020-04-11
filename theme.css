@@ -332,7 +332,6 @@ footer p.credits {
 	text-transform:uppercase;
 	font-size:13px;
 	letter-spacing:3px;
-	color: #ffffff;
 }
 ::-moz-selection {
 	text-shadow:none;
@@ -373,7 +372,7 @@ p.lead {
 	font-size:12px;
 	text-transform:uppercase;
 	font-weight:400;
-	color:#ffffff;
+	color:#333;
 	margin:20px 5px 0 5px;
 	display:inline-block;
     min-width: 150px;
